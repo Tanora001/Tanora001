@@ -1,13 +1,13 @@
 </a>## Hi, 👋  I'm Tanora001 (杏瑤)</a>
-
-<!--
-**Tanora001/Tanora001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![吴琮杏瑤's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
 ![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)
 ![snake](./assets/github-contribution-grid-snake.svg)
 ![snake](./assets/github-contribution-grid-snake.svg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryajf&repo=ldapctl&show_owner=true&&theme=cobalt)](https://github.com/eryajf/ldapctl)
+
+**Tanora001/Tanora001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![吴琮杏瑤's github stats](https://github-readme-stats.vercel.app/api?username=eryajf&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+
+
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);杏瑤同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 <a href="https://github.com/HIM198/computer-vision-in-action">
     <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
@@ -35,7 +35,7 @@
 <!--my introduction end -->
  
 <br>
- 
+<--
 <p align="center">
   <a href="https://github.com/HIM198" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="HIM198's Stats" >
@@ -44,7 +44,8 @@
     -->
   </a>
 </p>
- 
+-->
+
 <p align="center">
   <a href= "https://voup.cn/wp-content/uploads/2023/06/voup-weixing.jpg" target="_blank" alt="WeChat" title="WeChat">
     <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
@@ -54,14 +55,7 @@
   <a href="https://space.bilibili.com/275728029" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
-  &emsp;
-  <a href= "https://voup.cn" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://voup.cn/wp-content/uploads/2023/06/icons8-log-cabin-32.png" width="28px"/>
-  </a>
-  &emsp;
-      <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
+  
   &emsp;
      <a href="https://www.zhihu.com/people/mei-yi-tian-wei-ming-tian-33-52" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
@@ -95,13 +89,13 @@
  
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
-<!-- START_SECTION:brain -->
+<!-- START_SECTION:brain 
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.cn' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-21
 * <a href='http://welcome.voup.c' target='_blank'>empty</a> - 2023-05-20
-<!-- END_SECTION:brain -->
+ END_SECTION:brain -->
  
 </td></tr>
  
