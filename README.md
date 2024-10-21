@@ -29,7 +29,7 @@
 ---
 </details>
   
-  ✨ 站主目前是一名人工智能专业大二学生，喜欢看番剧、编程、单片机和前卫金属。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
+  ✨ 站主目前是一名人工智能专业大三学生，喜欢看番剧、编程、单片机，听歌的风格主要是后朋克、前卫金属、J-PoP。该站存放本人的一些代码程序，顺便记录自己的随想心得。欢迎大家来和我讨论技术上的问题
  
  
 <!--my introduction end -->
@@ -104,10 +104,10 @@
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
  
 <!-- START_SECTION:douban -->
-* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在学考研词汇闪过</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-6
-* <a href='https://www.bing.com/search?q=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&sc=10-6&sk=&cvid=69AADEED0BDA40CEAEA6681A39320017&ghsh=0&ghacc=0&ghpl=' target='_blank'>最近在学张宇考研数学</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a href='https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94' target='_blank'>最近在学王道考研</a> 🌟🌟🌟🌟🌟 力荐- 2023-03-07
-* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看完肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
+* <a href='https://www.bing.com/search?q=%E8%80%83%E7%A0%94%E8%AF%8D%E6%B1%87%E9%97%AA%E8%BF%87' target='_blank'>最近在学考研词汇闪过</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-17
+* <a href='https://www.bing.com/search?q=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&qs=n&form=QBRE&sp=-1&lq=0&pq=%E5%BC%A0%E5%AE%87%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6&sc=10-6&sk=&cvid=69AADEED0BDA40CEAEA6681A39320017&ghsh=0&ghacc=0&ghpl=' target='_blank'>最近在学张宇考研数学</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-17
+* <a href='https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%81%93%E8%80%83%E7%A0%94' target='_blank'>最近在学王道考研</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-17
+* <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看完Girls Band Cry</a> 🌟🌟🌟🌟🌟 力荐- 2024-10-17
  
  
 <!-- END_SECTION:douban -->
