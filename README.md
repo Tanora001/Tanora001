@@ -1,6 +1,8 @@
 <div align="center">
-  <a href="https://github.com/satio-verse/satio-verse"><img src="assets/hero.svg" width="100%" alt="Tanora Vic — 造一个能住在电脑里的角色"></a>
+  <a href="https://github.com/satio-verse/satio-verse"><img src="assets/hero.svg?v=2" width="100%" alt="Tanora Vic — 造一个能住在电脑里的角色"></a>
 </div>
+
+<!-- 资产更新后请把下面的 ?v=N 一起 +1：GitHub 的 /raw/ 图片会走长缓存，不换 URL 读者看到的还是旧图。 -->
 
 <br>
 
@@ -13,17 +15,17 @@
 
 ### 在做的事
 
-<a href="https://github.com/satio-verse/satio-verse"><img src="assets/project-satio.svg" width="100%" alt="S.A.T.I.O Verse"></a>
+<a href="https://github.com/satio-verse/satio-verse"><img src="assets/project-satio.svg?v=2" width="100%" alt="S.A.T.I.O Verse"></a>
 
-<a href="https://github.com/satio-verse/satio-plugins"><img src="assets/project-plugins.svg" width="100%" alt="satio-plugins"></a>
+<a href="https://github.com/satio-verse/satio-plugins"><img src="assets/project-plugins.svg?v=2" width="100%" alt="satio-plugins"></a>
 
-<a href="https://github.com/Tanora001/ai-agent-cli"><img src="assets/project-agent-cli.svg" width="100%" alt="ai-agent-cli"></a>
+<a href="https://github.com/Tanora001/ai-agent-cli"><img src="assets/project-agent-cli.svg?v=2" width="100%" alt="ai-agent-cli"></a>
 
 <br>
 
 ### 技术栈
 
-<img src="assets/stack.svg" width="100%" alt="Python / TypeScript / three.js / PyTorch / Docker / Linux">
+<img src="assets/stack.svg?v=2" width="100%" alt="Python / TypeScript / three.js / PyTorch / Docker / Linux">
 
 <br>
 
