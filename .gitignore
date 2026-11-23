@@ -1,4 +1,6 @@
-﻿# 本机调试产物
+# 本机调试产物
 pv*.png
+q*.png
+L*.png
 live-*.png
 *.ps1.bak
