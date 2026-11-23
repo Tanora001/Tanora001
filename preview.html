@@ -15,7 +15,6 @@
   h2 { font-size: 1.5em; font-weight: 600; margin: 32px 0 16px; padding-bottom: .3em; border-bottom: 1px solid #21262d; }
   p { margin: 0 0 16px; }
   em { color: #8b949e; font-size: 13px; }
-  blockquote { margin: 0 0 16px; padding: 0 1em; color: #8b949e; border-left: .25em solid #30363d; }
   .cap { color: #8b949e; font-size: 13px; margin: -4px 0 22px; }
   .gap { height: 18px; }
   ul { margin: 0 0 16px; padding-left: 2em; }
@@ -26,26 +25,31 @@
 <div class="wrap">
   <div class="file-header">Tanora001 / README.md</div>
   <div class="readme">
-    <img src="assets/hero-photo.webp" alt="S.A.T.I.O 黄昏客厅" />
+    <img src="assets/hero-verse.webp" alt="S.A.T.I.O Verse" />
 
     <h2>你好，我是 Tanora Vic。</h2>
-    <p>我在做一件很具体的事：<b>让一个角色住在你自己的电脑里</b> —— 有房间、有声音、有情绪，也能顺手替你干活。模型跑在本机，密钥不出门；没有模型时它退化成 mock，不假装自己很聪明。</p>
-    <p>上面那张不是渲染图，是刚跑起来的窗口截图：她站在黄昏的客厅里，底下那枚胶囊是跟她说话的地方。</p>
+    <p>我在做一件很具体的事：把一个「能住在电脑里的角色」真的写出来 —— 有房间、有声音、有情绪，也能顺手替你干点活。模型跑在本机，密钥不出门；没有模型的时候它退化成 mock，不假装自己很聪明。</p>
+
+    <img src="assets/moment-dialogue.webp" alt="黄昏客厅" />
+    <div class="cap">她就在客厅里，直接开口说话就行。这张是刚跑起来的窗口截图，不是渲染图。</div>
 
     <h2>我想造的东西</h2>
-    <img src="assets/vision.svg" alt="愿景" />
+    <img src="assets/vision.svg" alt="三根柱子" />
 
-    <h2>世界怎么被造出来</h2>
+    <h2>世界是怎么搭起来的</h2>
+    <p>世界不是画出来的，是按契约拼起来的：能改的归服务器，好看的归客户端，同一份清单对账。</p>
     <img src="assets/pipeline.svg" alt="资产管线" />
     <div class="gap"></div>
     <img src="assets/show-nexus.webp" alt="Material Nexus" />
-    <div class="cap">材质映射台：把外部资产的材质自动对到自家调色板，拿不准就标「待确认」，但不阻断导入。</div>
+    <div class="cap">材质映射台：把外部资产的表面对到自家调色板。拿不准的标「待确认」，但从不阻断导入。</div>
 
-    <h2>跑起来的样子</h2>
-    <img src="assets/show-panopticon.webp" alt="Panopticon 数据大盘" />
-    <div class="cap">Panopticon：模型插槽、记忆编队、插件市场，全在一块屏上；只读，不写。</div>
+    <h2>控制台</h2>
+    <p>她此刻在想什么、记忆里有什么、市场里有什么 —— 一块屏看完，只读不写。</p>
+    <img src="assets/show-panopticon.webp" alt="Panopticon" />
+    <div class="cap">模型插槽 1/4、记忆编队、插件市场 12 安装 / 11 启用 / 22 禁止，全都是真实运行态。</div>
 
     <h2>一些数字</h2>
+    <p>这些数字是现抓的，不是装饰。</p>
     <img src="assets/stats.svg" alt="stats" />
     <div class="gap"></div>
     <img src="assets/activity.svg" alt="activity" />
@@ -62,15 +66,15 @@
     <h2>技术栈</h2>
     <img src="assets/stack.svg" alt="stack" />
 
-    <h2>在意的三件事</h2>
-    <p><b>本机优先</b> —— 对话、语音、记忆都留在自己的机器上。自托管不是口号，是默认路径。</p>
-    <p><b>契约，不是硬编码</b> —— 插件、世界、能力都走同一份契约；加一样东西不用改内核。</p>
-    <p><b>不表演</b> —— 能力边界写清楚：能做什么、不能做什么，宁可少说也不装会。</p>
+    <h2>三条底线</h2>
+    <p><b>本机优先</b> —— 对话、语音、记忆都留在你自己的机器上。自托管不是姿态，是默认路径。</p>
+    <p><b>契约先行</b> —— 插件、世界、能力共用一份契约；往里加东西，不用改内核。</p>
+    <p><b>不表演</b> —— 能力边界写清楚：能做什么、暂时不能做什么。宁可少说，也不装作会。</p>
 
     <h2>最近在折腾</h2>
     <ul>
-      <li>3D 客厅里的 VRM 角色与动作 —— three.js r180，先跑通观感，再谈真实模型</li>
-      <li>语音：GPT-SoVITS v5turbo，首包压到 1 秒级，音色与情绪分开调</li>
+      <li>3D 客厅里的角色与动作 —— three.js r180，先把观感跑通，再谈真实模型</li>
+      <li>声音：GPT-SoVITS v5turbo，首包压到 1 秒级，音色和情绪分开调</li>
       <li>插件市场与「装前契约报告」：先看清一个包要动什么，再决定装不装</li>
     </ul>
 

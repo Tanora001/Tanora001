@@ -171,18 +171,18 @@ function visionSvg() {
   const w = 1000, h = 452;
   const cols = [
     {
-      n: '01', t: '虚拟世界',
-      lines: ['有房间、有街道、有你在意的人。', '坐下喝杯茶，也可以把现实里', '放不下的东西带进来。'],
+      n: '01', t: '能住进去的世界',
+      lines: ['有房间、有街、有人的作息和光影。', '坐下喝杯茶；也能把现实里放不下的', '东西，带进来放一会儿。'],
       c: T.warm,
     },
     {
-      n: '02', t: '现实福利',
-      lines: ['社区、医疗、住房、学业，', '用同一套账本落到实处。不是画饼，', '是长大以后第一笔要花的钱。'],
+      n: '02', t: '落回现实的福利',
+      lines: ['社区、医疗、住房、学业。', '同一套账本，写得清、查得到；', '不靠口号，靠真花出去的钱。'],
       c: T.cool,
     },
     {
-      n: '03', t: '社区',
-      lines: ['不是用户池，是住在这里的人。', '规则一起写，收益一起分，', '不满意可以改。'],
+      n: '03', t: '住在这里的人',
+      lines: ['这里的人不是流量。', '规则一起写，收益一起分；', '不满意，可以改。'],
       c: T.lav,
     },
   ];
@@ -194,22 +194,22 @@ function visionSvg() {
     body += `<rect x="${x}" y="162" width="26" height="1" fill="${c.c}" opacity="0.75"/>`;
     c.lines.forEach((l, li) => { body += text(x, 190 + li * 24, l, { size: 13, fill: T.ink2 }); });
   });
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="愿景：虚拟世界、现实福利、社区">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="愿景：能住进去的世界、落回现实的福利、住在这里的人">
 ${panel(w, h, { id: 'vi' })}
 <defs>
   <linearGradient id="vline" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="${T.warm}" stop-opacity="0"/><stop offset="0.35" stop-color="${T.warm}" stop-opacity="0.55"/><stop offset="1" stop-color="${T.cool}" stop-opacity="0"/>
   </linearGradient>
 </defs>
-${label(48, 40, 'THE WORLD · 我想造的东西')}
-${text(w - 48, 40, '少一件都撑不住', { size: 13, fill: T.ink3, anchor: 'end' })}
+${label(48, 40, 'THE WORLD · 三根柱子')}
+${text(w - 48, 40, '缺一根都撑不住', { size: 13, fill: T.ink3, anchor: 'end' })}
 <rect x="48" y="60" width="${w - 96}" height="1" fill="url(#vline)"/>
 ${body}
-${text(48, 336, '「与其剥削别人，不如多帮助更多的人。」', { size: 19, weight: 300, fill: '#d9d2c8' })}
+${text(48, 336, '先让人过得好一点，再谈这个世界能有多大。', { size: 19, weight: 300, fill: '#d9d2c8' })}
 ${label(w - 48, 336, '2026 · 第一年', { size: 10, fill: T.ink3, anchor: 'end' })}
 <rect x="48" y="360" width="${w - 96}" height="1" fill="${T.line}"/>
-${text(48, 392, 'AI 把「亲身经历」变成可生成的东西：剑与魔法、龙与地下城、做皇帝或做公主、重逢再也见不到的人。', { size: 13, fill: T.ink2 })}
-${text(48, 414, '它也会被用来逃避——这我承认。如果能在里面喘口气，再回去把日子过好，那也算它做了点好事。', { size: 13, fill: T.ink2 })}
+${text(48, 392, '生成能力让「亲身经历」变成可以定制的东西：剑与魔法、龙与地下城、重来一次的人生，或者再见一面来不及告别的人。', { size: 13, fill: T.ink2 })}
+${text(48, 414, '它当然也允许人先躲一会儿。这一点不必美化，也不必否认——能喘口气，再回去把日子过好，就已经够了。', { size: 13, fill: T.ink2 })}
 </svg>`;
 }
 
@@ -219,7 +219,7 @@ function pipelineSvg() {
   const lanes = [
     {
       k: 'A', t: '体素原生', c: T.warm,
-      d: '地形、建筑、墙、可破坏物 —— 服务器权威',
+      d: '地形、建筑、墙体、可破坏物 —— 服务器权威',
       r: '体素编辑器 + MCP 结构化工具（get / set / fill / extrude / preview / commit）',
     },
     {
@@ -249,7 +249,7 @@ ${text(w - 48, 40, '工具可换，契约不换', { size: 13, fill: T.ink3, anch
 <rect x="48" y="60" width="${w - 96}" height="1" fill="${T.line}"/>
 ${body}
 <rect x="48" y="298" width="${w - 96}" height="1" fill="${T.line}"/>
-${text(48, 330, '同一份 MaterialPalette + AssetManifest：材质、预算、碰撞、许可都写进清单，缺字段的资产进不了官方房间。', { size: 12.5, fill: T.ink2 })}
+${text(48, 330, '同一份 MaterialPalette + AssetManifest：材质、预算、碰撞、许可都写进清单，缺一项就进不了官方房间。', { size: 12.5, fill: T.ink2 })}
 </svg>`;
 }
 
