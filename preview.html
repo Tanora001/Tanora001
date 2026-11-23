@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<title>profile preview</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; background: #0d1117; color: #e6edf3;
+         font: 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif; }
+  .wrap { width: 842px; margin: 28px auto 60px; }
+  .file-header { border: 1px solid #30363d; border-bottom: 0; border-radius: 6px 6px 0 0;
+                 background: #161b22; color: #8b949e; font-size: 12px; padding: 8px 12px; }
+  .readme { border: 1px solid #30363d; border-radius: 0 0 6px 6px; padding: 32px; }
+  img { max-width: 100%; display: block; }
+  h2 { font-size: 1.5em; font-weight: 600; margin: 32px 0 16px; padding-bottom: .3em; border-bottom: 1px solid #21262d; }
+  p { margin: 0 0 16px; }
+  em { color: #8b949e; font-size: 13px; }
+  blockquote { margin: 0 0 16px; padding: 0 1em; color: #8b949e; border-left: .25em solid #30363d; }
+  .cap { color: #8b949e; font-size: 13px; margin: -4px 0 22px; }
+  .gap { height: 18px; }
+  ul { margin: 0 0 16px; padding-left: 2em; }
+  li { margin-top: .25em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="file-header">Tanora001 / README.md</div>
+  <div class="readme">
+    <img src="assets/hero-photo.webp" alt="S.A.T.I.O 黄昏客厅" />
+
+    <h2>你好，我是 Tanora Vic。</h2>
+    <p>我在做一件很具体的事：<b>让一个角色住在你自己的电脑里</b> —— 有房间、有声音、有情绪，也能顺手替你干活。模型跑在本机，密钥不出门；没有模型时它退化成 mock，不假装自己很聪明。</p>
+    <p>上面那张不是渲染图，是刚跑起来的窗口截图：她站在黄昏的客厅里，底下那枚胶囊是跟她说话的地方。</p>
+
+    <h2>我想造的东西</h2>
+    <img src="assets/vision.svg" alt="愿景" />
+
+    <h2>世界怎么被造出来</h2>
+    <img src="assets/pipeline.svg" alt="资产管线" />
+    <div class="gap"></div>
+    <img src="assets/show-nexus.webp" alt="Material Nexus" />
+    <div class="cap">材质映射台：把外部资产的材质自动对到自家调色板，拿不准就标「待确认」，但不阻断导入。</div>
+
+    <h2>跑起来的样子</h2>
+    <img src="assets/show-panopticon.webp" alt="Panopticon 数据大盘" />
+    <div class="cap">Panopticon：模型插槽、记忆编队、插件市场，全在一块屏上；只读，不写。</div>
+
+    <h2>一些数字</h2>
+    <img src="assets/stats.svg" alt="stats" />
+    <div class="gap"></div>
+    <img src="assets/activity.svg" alt="activity" />
+    <div class="gap"></div>
+    <img src="assets/langs.svg" alt="langs" />
+
+    <h2>在做的事</h2>
+    <img src="assets/project-satio.svg" alt="satio" />
+    <div class="gap"></div>
+    <img src="assets/project-plugins.svg" alt="plugins" />
+    <div class="gap"></div>
+    <img src="assets/project-agent-cli.svg" alt="agent-cli" />
+
+    <h2>技术栈</h2>
+    <img src="assets/stack.svg" alt="stack" />
+
+    <h2>在意的三件事</h2>
+    <p><b>本机优先</b> —— 对话、语音、记忆都留在自己的机器上。自托管不是口号，是默认路径。</p>
+    <p><b>契约，不是硬编码</b> —— 插件、世界、能力都走同一份契约；加一样东西不用改内核。</p>
+    <p><b>不表演</b> —— 能力边界写清楚：能做什么、不能做什么，宁可少说也不装会。</p>
+
+    <h2>最近在折腾</h2>
+    <ul>
+      <li>3D 客厅里的 VRM 角色与动作 —— three.js r180，先跑通观感，再谈真实模型</li>
+      <li>语音：GPT-SoVITS v5turbo，首包压到 1 秒级，音色与情绪分开调</li>
+      <li>插件市场与「装前契约报告」：先看清一个包要动什么，再决定装不装</li>
+    </ul>
+
+    <p><em>代码 Apache-2.0 · 文字与设定 CC BY-NC 4.0 · 想商用，欢迎先来聊一声</em></p>
+  </div>
+</div>
+</body>
+</html>
