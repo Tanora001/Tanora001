@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="80" viewBox="0 0 1000 80" role="img" aria-label="技术栈：Python TypeScript three.js PyTorch Docker Linux">
+  <text x="30" y="45" font-family="Consolas, 'Cascadia Mono', monospace" font-size="11" letter-spacing="3.4" fill="#6f6a64">STACK</text>
+
+  <g font-family="Consolas, 'Cascadia Mono', monospace" font-size="14" letter-spacing="0.5" fill="#cfc7bd">
+    <rect x="100" y="24" width="82" height="32" rx="16" fill="#ffffff" fill-opacity="0.03" stroke="#e8a06a" stroke-opacity="0.24"/>
+    <text x="141" y="45" text-anchor="middle">Python</text>
+
+    <rect x="192" y="24" width="116" height="32" rx="16" fill="#ffffff" fill-opacity="0.03" stroke="#e8a06a" stroke-opacity="0.24"/>
+    <text x="250" y="45" text-anchor="middle">TypeScript</text>
+
+    <rect x="318" y="24" width="99" height="32" rx="16" fill="#ffffff" fill-opacity="0.03" stroke="#e8a06a" stroke-opacity="0.24"/>
+    <text x="367.5" y="45" text-anchor="middle">three.js</text>
+
+    <rect x="427" y="24" width="91" height="32" rx="16" fill="#ffffff" fill-opacity="0.03" stroke="#7f9dc9" stroke-opacity="0.24"/>
+    <text x="472.5" y="45" text-anchor="middle">PyTorch</text>
+
+    <rect x="528" y="24" width="82" height="32" rx="16" fill="#ffffff" fill-opacity="0.03" stroke="#7f9dc9" stroke-opacity="0.24"/>
+    <text x="569" y="45" text-anchor="middle">Docker</text>
+
+    <rect x="620" y="24" width="74" height="32" rx="16" fill="#ffffff" fill-opacity="0.03" stroke="#7f9dc9" stroke-opacity="0.24"/>
+    <text x="657" y="45" text-anchor="middle">Linux</text>
+  </g>
+</svg>

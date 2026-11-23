@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="116" viewBox="0 0 1000 116" role="img" aria-label="ai-agent-cli — 多模型 Agent 命令行">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.8">
+      <stop offset="0" stop-color="#0d1017"/>
+      <stop offset="0.62" stop-color="#0a0c11"/>
+      <stop offset="1" stop-color="#07080b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#b9a4d8" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#b9a4d8" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="round"><rect width="1000" height="116" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1000" height="116" fill="url(#bg)"/>
+    <ellipse cx="880" cy="10" rx="300" ry="130" fill="url(#glow)"/>
+    <path d="M0 115H1000" stroke="#b9a4d8" stroke-opacity="0.2"/>
+
+    <text x="30" y="50" font-family="Consolas, 'Cascadia Mono', monospace" font-size="13" letter-spacing="1.5" fill="#b9a4d8" fill-opacity="0.85">03</text>
+
+    <text x="86" y="51" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif" font-size="27" font-weight="300" letter-spacing="0.4" fill="#f4efe8">ai-agent-cli</text>
+
+    <text x="86" y="86" font-family="'Segoe UI', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif" font-size="15" fill="#9a938b">多模型 Agent 命令行：工具系统、多智能体协作、MCP</text>
+
+    <circle cx="789" cy="46" r="3" fill="#b9a4d8" opacity="0.9"/>
+    <text x="938" y="50" text-anchor="end" font-family="Consolas, 'Cascadia Mono', monospace" font-size="12" letter-spacing="0.4" fill="#a89a8c">TypeScript · CLI</text>
+
+    <text x="974" y="51" text-anchor="end" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" fill="#6a6560">↗</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="999" height="115" rx="15.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
