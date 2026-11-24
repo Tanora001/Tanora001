@@ -1,7 +1,7 @@
 <!-- 资产改动后，请把下面所有 assets/*.svg?v=N 与 *.webp?v=N 的 N 一起 +1：
      GitHub 的 /raw/ 图片会走长缓存，不换 URL 的话读者看到的还是旧图。 -->
 
-<img src="assets/hero-verse.webp?v=4" width="100%" alt="S.A.T.I.O Verse 标志：白光辉里的彩虹丝带 S" />
+<img src="assets/hero-verse.webp?v=5" width="100%" alt="S.A.T.I.O Verse —— 白光辉里的一枚红宝石，细线轨道绕了一圈" />
 
 ## 你好，我是 Tanora Vic。
 
