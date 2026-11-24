@@ -14,7 +14,7 @@
 
 ## 我想造的东西
 
-<img src="assets/vision.svg?v=6" width="100%" alt="三根柱子：能住进去的世界、落回现实的福利、住在这里的人" />
+<img src="assets/vision-2.svg" width="100%" alt="三根柱子：能住进去的世界、落回现实的福利、住在这里的人" />
 
 ## 世界是怎么搭起来的
 

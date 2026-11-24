@@ -256,7 +256,7 @@ ${text(48, 330, '同一份 MaterialPalette + AssetManifest：材质、预算、�
 fs.writeFileSync(path.join(outDir, 'stats.svg'), statsSvg());
 fs.writeFileSync(path.join(outDir, 'activity.svg'), activitySvg());
 fs.writeFileSync(path.join(outDir, 'langs.svg'), langsSvg());
-fs.writeFileSync(path.join(outDir, 'vision.svg'), visionSvg());
+fs.writeFileSync(path.join(outDir, 'vision-2.svg'), visionSvg());
 fs.writeFileSync(path.join(outDir, 'pipeline.svg'), pipelineSvg());
 
 console.log(JSON.stringify({ total, activeDays, activeWeeks, longest, busiest, repoTotal, langs: langs.map((l) => `${l.n} ${l.pct.toFixed(1)}%`) }, null, 2));
